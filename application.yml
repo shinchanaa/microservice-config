@@ -1,6 +1,6 @@
-  spring:
-    application:
-      name: USER-SERVICE-DEFAULT
+spring:
+  application:
+    name: USER-SERVICE-DEFAULT
 
 eureka:
   instances:
